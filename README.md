@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Welcome 👋
+![From timbuktu](https://github.com/RxTagDeveloper/RxTagPoc/blob/main/docx/misc/tag_readme_animation.gif)
 <!--
 **RxTagDeveloper/RxTagDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
