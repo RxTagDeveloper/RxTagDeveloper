@@ -1,5 +1,9 @@
-## Welcome 👋
+## RxTag PoC
+A testbed environment for developing and validating Electronic Shelf Label (ESL) protocols and core logic prior to deployment on Zephyr-based nRF boards. This project enables simulation, experimentation, and verification of ESL behavior in a safe and flexible environment.
+
 ![From timbuktu](https://github.com/RxTagDeveloper/RxTagPoc/blob/main/docx/misc/tag_readme_animation.gif)
+
+
 <!--
 **RxTagDeveloper/RxTagDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
